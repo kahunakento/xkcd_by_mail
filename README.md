@@ -1,4 +1,4 @@
-# xkcdby mail
+# xkcd by mail
 
 Sends you a mail with a random comic from https://xkcd.com. 
 
